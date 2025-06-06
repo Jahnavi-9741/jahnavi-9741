@@ -1,8 +1,8 @@
-# 💫 About Me:
+# About Me:
 Final-year B.Tech student at Alliance University with a strong interest in Artificial Intelligence and Machine Learning.<br>Focused on building intelligent solutions using Python, ML, and Generative AI technologies.<br>Currently exploring Web Development and Backend Engineering to broaden my tech stack.<br>Passionate about solving real-world problems through clean, scalable code.<br>Open to collaboration, learning opportunities, and innovative project ideas.
 
 
-## 🌐 Socials:
+## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Gorantla Jahnavi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Jahnavi0405@gmail.com) 
 
 # 💻 Tech Stack:
@@ -15,4 +15,18 @@ Final-year B.Tech student at Alliance University with a strong interest in Artif
 ---
 [![](https://visitcount.itsvg.in/api?id=Jahnavi-9741&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=jahnavi-9741&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=jahnavi-9741&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jahnavi-9741/jahnavi-9741/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jahnavi-9741/jahnavi-9741/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/jahnavi-9741/jahnavi-9741/output/pacman-contribution-graph.svg">
+</picture>
+
+###
